@@ -8,7 +8,7 @@ I am a passionate software developer with a knack for creating efficient and inn
 - 👯 I’m looking to collaborate on open source projects.
 - 💬 Ask me about anything related to web development and cloud computing.
 - 📫 How to reach me: hemadharshini837@gmail.com
-- ⚡ Fun fact: I love painting and playing the piano in my free time.
+- ⚡ Fun fact: I love listening music and travelling.
 
 ## Skills
 - **Languages:** Python, JavaScript, Java, C++
@@ -18,9 +18,10 @@ I am a passionate software developer with a knack for creating efficient and inn
 - **Cloud:** AWS, Azure, Google Cloud Platform
 
 ## Projects
-- **Project 1:** Description of project 1 with a link to the repository.
-- **Project 2:** Description of project 2 with a link to the repository.
-- **Project 3:** Description of project 3 with a link to the repository.
+- **Project 1:
+   Calculator Project: A simple calculator application built to perform basic arithmetic operations such as addition, subtraction, multiplication, and division. The project demonstrates the use of HTML, CSS, and 
+  JavaScript for front-end development.
+  Repository link : (https://github.com/hemadharshini-k/codealpha_tasks).
 
 ## Get in Touch
 - [LinkedIn](www.linkedin.com/in/hemadharshini-k-712211301)
