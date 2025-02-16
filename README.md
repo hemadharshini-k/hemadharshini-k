@@ -24,7 +24,7 @@ I am a passionate software developer with a knack for creating efficient and inn
   Repository link : (https://github.com/hemadharshini-k/codealpha_tasks).
 
 ## Get in Touch
-- [LinkedIn](www.linkedin.com/in/hemadharshini-k-712211301)
+- [LinkedIn](https://www.linkedin.com/in/hemadharshini-k-712211301/)
 - [Twitter](https://x.com/Hemadharshini_K).
 - [GitHub](https://github.com/hemadharshini-k/hemadharshini-k)
 
