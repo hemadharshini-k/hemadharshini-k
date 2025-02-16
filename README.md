@@ -7,7 +7,7 @@ I am a passionate software developer with a knack for creating efficient and inn
 - 🌱 I’m currently learning advanced concepts in machine learning and AI.
 - 👯 I’m looking to collaborate on open source projects.
 - 💬 Ask me about anything related to web development and cloud computing.
-- 📫 How to reach me: hemadharshini@example.com
+- 📫 How to reach me: hemadharshini837@gmail.com
 - ⚡ Fun fact: I love painting and playing the piano in my free time.
 
 ## Skills
@@ -23,9 +23,9 @@ I am a passionate software developer with a knack for creating efficient and inn
 - **Project 3:** Description of project 3 with a link to the repository.
 
 ## Get in Touch
-- [LinkedIn](https://www.linkedin.com/in/hemadharshini)
-- [Twitter](https://twitter.com/hemadharshini)
-- [GitHub](https://github.com/hemadharshini-k)
+- [LinkedIn](www.linkedin.com/in/hemadharshini-k-712211301)
+- [Twitter](https://x.com/Hemadharshini_K).
+- [GitHub](https://github.com/hemadharshini-k/hemadharshini-k)
 
 Looking forward to connecting with you!
 ```` ▋
