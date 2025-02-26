@@ -24,7 +24,7 @@ I am a passionate software developer with a knack for creating efficient and inn
   Repository link : (https://github.com/hemadharshini-k/codealpha_tasks).
 - **Project 2:
 Image Gallery Project: A simple image gallery application built to display a collection of images. The project demonstrates the use of HTML, CSS, and JavaScript to create a visually appealing and responsive gallery layout with functionality to navigate and view images.
-Repository link: (https://github.com/hemadharshini-k/codealpha_task2)
+Repository link:(https://github.com/hemadharshini-k/codealpha-task2)
 
 ## Get in Touch
 - [LinkedIn](https://www.linkedin.com/in/hemadharshini-k-712211301/)
