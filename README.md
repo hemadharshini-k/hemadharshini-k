@@ -27,7 +27,7 @@ Image Gallery Project: A simple image gallery application built to display a col
 Repository link:(https://github.com/hemadharshini-k/codealpha-task2)
 - **Project 3:
 Music Player Project: A fully functional music player application built using HTML, CSS, and JavaScript. This project features play, pause, next, and previous controls, along with a responsive design and user-friendly interface. It showcases dynamic audio handling and interactive UI components for a smooth user experience.
-Repository link: (https://github.com/hemadharshini-k/codealpha-task3)
+Repository link: https://github.com/hemadharshini-k/codealpha_task3
 
 ## Get in Touch
 - [LinkedIn](https://www.linkedin.com/in/hemadharshini-k-712211301/)
