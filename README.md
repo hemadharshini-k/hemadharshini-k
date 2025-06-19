@@ -25,7 +25,7 @@ I am a passionate software developer with a knack for creating efficient and inn
 - **Project 2:
 Image Gallery Project: A simple image gallery application built to display a collection of images. The project demonstrates the use of HTML, CSS, and JavaScript to create a visually appealing and responsive gallery layout with functionality to navigate and view images.
 Repository link:(https://github.com/hemadharshini-k/codealpha-task2)
-Project 3:
+- **Project 3:
 Music Player Project: A fully functional music player application built using HTML, CSS, and JavaScript. This project features play, pause, next, and previous controls, along with a responsive design and user-friendly interface. It showcases dynamic audio handling and interactive UI components for a smooth user experience.
 Repository link: (https://github.com/hemadharshini-k/codealpha-task3)
 
